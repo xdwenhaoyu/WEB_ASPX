@@ -1,0 +1,5 @@
+开发工具使用Visual Studio2019（可从微软免费下载社区版）
+数据库为SQL Server2008R2，通过“附加”操作，在本机建立“AdventureWorks2008R2”数据库。
+
+源代码也可以通过GitHub直接下载：
+https://github.com/xdwenhaoyu/WEB_ASPX.git
